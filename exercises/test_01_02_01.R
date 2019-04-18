@@ -1,4 +1,4 @@
-test_that::test_that('Solution is incorrect', {
+testthat::test_that('Solution is incorrect', {
     expect_equal(course_number, 101)
 })
 print("Success!")
