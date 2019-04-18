@@ -1,10 +1,10 @@
 {
-    "title": "Advanced NLP with spaCy",
+    "title": "R for Python users",
     "slogan": "A free online course",
-    "description": "In this course, you'll learn how to use spaCy to build advanced natural language understanding systems, using both rule-based and machine learning approaches. I originally developed the content for DataCamp, but I wanted to make a free version so you don't have to sign up for their service. As a weekend project, I ended up putting together my own little app to present the exercises and content in a fun and interactive way.",
-    "bio": "I'm Ines, and I'm one of the core developers of spaCy and the co-founder of Explosion. I specialise in applications and developer tools for AI, Machine Learning and Natural Language Processing technologies. I also really love building stuff for the web.",
+    "description": "In this course, you'll learn how to use R to load, wrangle and visualize data. Differences and similarities between R and Python are highlighted.",
+    "bio": "I am Tiffany Timbers, an Instructor in the Dept. of Statistics and the Master of Data Science program at the University of British Columbia.",
     "siteUrl": "https://course.spacy.io",
-    "twitter": "spacy_io",
+    "twitter": "TiffanyTimbers",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
     "juniper": {
@@ -13,10 +13,9 @@
         "kernelType": "ir"
     },
     "footerLinks": [
-        { "text": "spaCy Website", "url": "https://spacy.io" },
-        { "text": "Course FAQ", "url": "https://github.com/ines/spacy-course#-faq" },
-        { "text": "Source", "url": "https://github.com/ines/spacy-course" },
-        { "text": "Follow me on Twitter", "url": "https://twitter.com/_inesmontani" }
+        { "text": "Course FAQ", "url": "https://github.com/ttimbers/r-for-python-users#-faq" },
+        { "text": "Source", "url": "https://github.com/ttimbers/r-for-python-users" },
+        { "text": "Follow me on Twitter", "url": "https://twitter.com/TiffanyTimbers" }
     ],
     "theme": "#09a3d5"
 }
